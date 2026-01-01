@@ -1,6 +1,6 @@
-# Clayton Baker
+# Clayton K. Baker
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/baker-ck/) [![GitHub](https://img.shields.io/github/followers/baker-ck.svg?style=social&label=Follow)](https://github.com/baker-ck) [!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/baker-ck/) [![GitHub](https://img.shields.io/github/followers/baker-ck.svg?style=social&label=Follow)](https://github.com/baker-ck)
 
 👋 Hello, my name is Clayton
 
