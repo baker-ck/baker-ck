@@ -28,7 +28,7 @@ Coming soon!
 
 
 ## Education
-- PhD - Computer Science, [University of the Western Cape](https://www.uwc.ac.za) (January 2026 --)
+- PhD - Computer Science, [University of the Western Cape](https://www.uwc.ac.za) (January 2026 -)
 - Master of Science - Computer Science, University of Cape Town](https://www.uct.ac.za) (January 2020 to December 2022)
 - Bachelor of Science Honours - Computer Science, [University of Cape Town](https://www.uct.ac.za/) (January 2019 to December 2019)
 - Bachelor of Science - Computer Science, [University of the Western Cape](https://www.uwc.ac.za/) (February 2016 to December 2018)
