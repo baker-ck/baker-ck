@@ -34,9 +34,9 @@ Coming soon!
 - Bachelor of Science - Computer Science, [University of the Western Cape](https://www.uwc.ac.za/) (February 2016 to December 2018)
 
 ## Publications
-- **C.K. Baker** and T. Meyer. 2021.
-  - Repo: https://github.com/baker-ck/SACAIR2021
-- **C.K. Baker**, C. Denny, P. Freund and T. Meyer. SACAIR2020.
+- **Baker, C.**, & Meyer, T. (2021). Belief change in human reasoning: An empirical investigation on mturk. In Proceedings of the Second Southern African Conference for Artificial Intelligence Research (SACAIR 2021) (pp. 520-536).
+   - Repo: https://github.com/baker-ck/SACAIR2021
+- **Baker, C. K.**, Denny, C., Freund, P., & Meyer, T. (2020, December). Cognitive defeasible reasoning: the extent to which forms of defeasible reasoning correspond with human reasoning. In Southern African Conference for Artificial Intelligence Research (pp. 199-219). Cham: Springer International Publishing.
   - Repo: https://github.com/baker-ck/SACAIR2020
 
 ## Industry workshops completed
