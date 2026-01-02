@@ -41,36 +41,36 @@ Coming soon!
 
 ## Industry workshops completed
       
-     🔹InstaDeep - linear algebra (vector spaces, 
-          matrices, dot product and vector magnitude)  
-          for machine learning, ridge regression [Tools: 
-          numpy, sklearn, Python, Jupyter Notebook, 
-          Google CoLab]
+🔹InstaDeep - linear algebra (vector spaces, 
+    matrices, dot product and vector magnitude)  
+    for machine learning, ridge regression [Tools: 
+    numpy, sklearn, Python, Jupyter Notebook, 
+    Google CoLab]
 
-     🔹Takealot - machine learning for product
-           recommender systems [Tools: Vertex AI, 
-          TensorFlow pipelines; Python, Jupyter 
-          Notebook]
+🔹Takealot - machine learning for product
+     recommender systems [Tools: Vertex AI, 
+    TensorFlow pipelines; Python, Jupyter 
+    Notebook]
 
-     🔹IBM - quantum computing (quantum 
-          gates, quantum circuits, Bloch sphere) with 
-          background in linear algebra (tensor product, 
-          complex numbers, Hilbert spaces, Dirac 
-          notation) and physics (waves) [Tools: Qiskit, 
-          IBM Quantum Platform, Python, Jupyter 
-          Notebook]
+🔹IBM - quantum computing (quantum 
+    gates, quantum circuits, Bloch sphere) with 
+    background in linear algebra (tensor product, 
+    complex numbers, Hilbert spaces, Dirac 
+    notation) and physics (waves) [Tools: Qiskit, 
+    IBM Quantum Platform, Python, Jupyter 
+    Notebook]
 
 ## Affiliations 
 
-     🔸Member of the South African Institute for 
-          Computer Scientists and Information 
-          Technologists (SAICSIT) 
+🔸Member of the South African Institute for 
+    Computer Scientists and Information 
+    Technologists (SAICSIT) 
 
-     🔸Member of the South African Artificial 
-           Intelligence Association (SAAIA)
+🔸Member of the South African Artificial 
+     Intelligence Association (SAAIA)
 
-     🔸Member of the Golden Key International 
-          Honour Society
+🔸Member of the Golden Key International 
+    Honour Society
 
 ## Contact
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/baker-ck/).
