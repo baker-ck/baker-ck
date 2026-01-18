@@ -6,9 +6,9 @@
 
 🌄 Cape Town native
 
-📚 PhD student working on graph neural networks and machine learning for dynamic systems at University of the Western Cape
+📚 Full-time PhD student working on graph neural networks and machine learning for dynamic systems at University of the Western Cape
 
-👨‍🏫 Lecturer in computer science at University of the Western Cape
+👨‍🏫 Full-time lecturer in computer science at University of the Western Cape
 
 📊 I teach Java Programming (COS101) and Data Structures and Algorithms (CSC211)
 
