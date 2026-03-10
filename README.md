@@ -8,7 +8,7 @@
 
 👨‍🏫 Full-time lecturer in computer science at University of the Western Cape
 
-📚 Full-time PhD student working on spatio-temporal graph neural networks (STGNNs)for sensor-driven systems at University of the Western Cape
+📚 Full-time PhD student working on spatio-temporal graph neural networks (STGNNs) for traffic forecasting at University of the Western Cape
 
 📊 I teach Java Programming (COS101) and Data Structures and Algorithms (CSC211)
 
