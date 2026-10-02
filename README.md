@@ -73,4 +73,4 @@ Coming soon!
        Honour Society
 
 ## Contact
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/baker-ck/).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/baker-ck/).
