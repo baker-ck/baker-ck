@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/baker-ck/) 
 [![GitHub](https://img.shields.io/github/followers/baker-ck.svg?style=social&label=Follow)](https://github.com/baker-ck)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/claytonbkr)
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=flat&logoColor=black)](https://huggingface.co/ckbaker)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=flat&logoColor=black)](https://huggingface.co/baker-ck)
 
 👋 Hello, my name is Clayton
 
