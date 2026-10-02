@@ -15,7 +15,7 @@
 
 📊 I teach Java Programming (COS101) and Data Structures and Algorithms (CSC211)
 
-🔎 I have experience as an external reviewer for paper submissions to international conferences (AAAI and PanAfriconAI), workshops (CAKR) and journals (JAL)
+🔎 I have experience as PC for AAAI and SATNAC; and as external reviewer for SACAIR and PanAfriconAI
 
 ⚽️ My goal is to promote and communicate the value of higher education in society through excellence in teaching, research and service
 
@@ -24,6 +24,11 @@
 💪 Leadership, empathy, communication, problem-solving, teamwork 
 
 ⭐️ Heidelberg Laureate Forum alumnus (9th HLF 2022)
+
+📥 Affiliations                                   
+        🔸 SAICSIT                  
+        🔸 SAAIA                 
+        🔸 Golden Key
 
 ## Projects
 
