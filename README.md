@@ -25,14 +25,9 @@
 
 ⭐️ Heidelberg Laureate Forum alumnus (9th HLF 2022)
 
-📥 Affiliations                                   
-  - UWC Computer Science - Telkom Centre of Excellence (CoE)       
-
-
 ## Projects
 
 Coming soon!
-
 
 ## Education
 - PhD - Computer Science, [University of the Western Cape](https://www.uwc.ac.za) (January 2026 - present)
@@ -46,27 +41,6 @@ Coming soon!
 - **Baker, C. K.**, Denny, C., Freund, P., & Meyer, T. (2020, December). Cognitive defeasible reasoning: the extent to which forms of defeasible reasoning correspond with human reasoning. In Southern African Conference for Artificial Intelligence Research (pp. 199-219). Cham: Springer International Publishing.
   - Repo: https://github.com/baker-ck/SACAIR2020
 
-## Industry workshops completed
-      
-   🔹 InstaDeep - linear algebra (vector spaces, 
-       matrices, dot product and vector magnitude)  
-       for machine learning, ridge regression [Tools: 
-       numpy, sklearn, Python, Jupyter Notebook, 
-       Google CoLab]
-   
-   🔹 Takealot - machine learning for product
-        recommender systems [Tools: Vertex AI, 
-       TensorFlow pipelines; Python, Jupyter 
-       Notebook]
-   
-   🔹 IBM - quantum computing (quantum 
-       gates, quantum circuits, Bloch sphere) with 
-       background in linear algebra (tensor product, 
-       complex numbers, Hilbert spaces, Dirac 
-       notation) and physics (waves) [Tools: Qiskit, 
-       IBM Quantum Platform, Python, Jupyter 
-       Notebook]
-
 ## Affiliations 
    🔸 Member of UWC Computer Science - Telkom Centre of Excellence (CoE)
    
@@ -79,6 +53,22 @@ Coming soon!
    
    🔸 Member of the Golden Key International 
        Honour Society
+
+
+## Industry workshops completed
+      
+   🔹 InstaDeep - linear algebra (vector spaces, 
+       matrices, dot product and vector magnitude)  
+       for machine learning, ridge regression [Tools: numpy, sklearn, Python, Jupyter Notebook, Google CoLab]
+   
+   🔹 Takealot - machine learning for product
+        recommender systems [Tools: Vertex AI, TensorFlow pipelines; Python, Jupyter Notebook]
+   
+   🔹 IBM - quantum computing (quantum 
+       gates, quantum circuits, Bloch sphere) with 
+       background in linear algebra (tensor product, 
+       complex numbers, Hilbert spaces, Dirac 
+       notation) and physics (waves) [Tools: Qiskit, IBM Quantum Platform, Python, Jupyter Notebook]
 
 ## Contact
 Connect with me on [LinkedIn](https://www.linkedin.com/in/baker-ck/).
