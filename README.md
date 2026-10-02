@@ -26,6 +26,7 @@
 ⭐️ Heidelberg Laureate Forum alumnus (9th HLF 2022)
 
 📥 Affiliations                                   
+  - UWC Computer Science - Telkom Centre of Excellence (CoE)       
   - SAICSIT
   - SAAIA
   - Golden Key International Honour Society
