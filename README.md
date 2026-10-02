@@ -26,9 +26,9 @@
 ⭐️ Heidelberg Laureate Forum alumnus (9th HLF 2022)
 
 📥 Affiliations                                   
-        🔸 SAICSIT                  
-        🔸 SAAIA                 
-        🔸 Golden Key
+  - SAICSIT
+  - SAAIA
+  - Golden Key International Honour Society
 
 ## Projects
 
