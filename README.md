@@ -27,9 +27,7 @@
 
 📥 Affiliations                                   
   - UWC Computer Science - Telkom Centre of Excellence (CoE)       
-  - SAICSIT
-  - SAAIA
-  - Golden Key International Honour Society
+
 
 ## Projects
 
@@ -70,7 +68,8 @@ Coming soon!
        Notebook]
 
 ## Affiliations 
-
+   🔸 Member of UWC Computer Science - Telkom Centre of Excellence (CoE)
+   
    🔸 Member of the South African Institute for 
        Computer Scientists and Information 
        Technologists (SAICSIT) 
